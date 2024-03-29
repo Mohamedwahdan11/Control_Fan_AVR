@@ -5,11 +5,11 @@
  *      Author: DELL
  */
 
-#include "pwm.h"
-#include "lcd.h"
-#include "adc.h"
-#include "lm35_sensor.h"
-#include "dc_motor.h"
+#include "/mcal/pwm.h"
+#include "/hal/lcd.h"
+#include "/mcal/adc.h"
+#include "/hal/lm35_sensor.h"
+#include "/hal/dc_motor.h"
 
 
 
