@@ -5,9 +5,9 @@
  *      Author: DELL
  */
 
-#include "gpio.h"
+#include "../mcal/gpio.h"
 #include "dc_motor.h"
-#include "pwm.h"
+#include "../mcal/pwm.h"
 
 
 
